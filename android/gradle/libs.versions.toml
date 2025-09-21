@@ -1,0 +1,13 @@
+[versions]
+compileSdk = "33"
+targetSdk = "33"
+minSdk = "21"
+buildTools = "33.0.0"
+kotlin = "1.8.10"
+
+[libraries]
+android-gradle-plugin = "com.android.tools.build:gradle:7.4.2"
+
+[bundles]
+
+[plugins]
